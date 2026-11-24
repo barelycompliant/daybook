@@ -2,6 +2,8 @@
 
 A project by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).
 Technically within specifications.
+
+
 **Production URL:** https://daybook.barelycompliant.dev/  
 
 
