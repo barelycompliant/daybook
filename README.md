@@ -37,5 +37,4 @@ One bell schedule and class roster apply to the entire export range. For schedul
 - `README.md` — this guide
 
 
-
 © 2026 Barely Compliant Studios.
