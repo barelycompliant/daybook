@@ -1,9 +1,9 @@
 # Daybook
 
 A project by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).
-
-**Production URL:** https://daybook.barelycompliant.dev/  
 Technically within specifications.
+**Production URL:** https://daybook.barelycompliant.dev/  
+
 
 ## Deployment
 
@@ -34,8 +34,6 @@ One bell schedule and class roster apply to the entire export range. For schedul
 - `favicon.svg` — studio symbol
 - `README.md` — this guide
 
-## Brand
 
-Evergreen `#001f11`, Gunmetal `#3b3b3b`, Jet Black `#22333b`, Alice Blue `#e6edf3`, Deep Space Blue `#2d374b`, Deep Navy `#001544`. Class colors are user-selectable; secondary contrast and warning colors support usability.
 
 © 2026 Barely Compliant Studios.
